@@ -5,6 +5,21 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "/leaderboard.json",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "https://wuwaflex.com"
+          },
+          {
+            "key": "Access-Control-Allow-Methods",
+            "value": "GET"
+          }
+        ]
+      }
     ]
   }
 }

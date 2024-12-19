@@ -5,6 +5,43 @@
     "top": 0,
     "team":  
     [
+      "Jiyan",
+      "Jinhsi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Ages of Harvest",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 40,
+    "url": "https://www.bilibili.com/video/BV13DkBYrEjU/",
+    "player": "一直走神",
+    "playerURL": "https://space.bilibili.com/101579224",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
       "Danjin",
       "Sanhua",
       "Shorekeeper"
@@ -29,11 +66,11 @@
     ],
     "floor": "2-1",
     "floorBoss": "Inferno Rider",
-    "time": 58,
-    "url": "https://www.youtube.com/watch?v=mfG_FDki7TQ",
+    "time": 55,
+    "url": "https://www.youtube.com/watch?v=OMPdunYQUUg",
     "player": "illuComet",
     "playerURL": "https://www.youtube.com/@illucomet3108",
-    "notes": "test"
+    "notes": ""
   },
 
   {
