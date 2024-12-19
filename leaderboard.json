@@ -1,0 +1,3889 @@
+[
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Danjin",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      6,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      5
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 58,
+    "url": "https://www.youtube.com/watch?v=mfG_FDki7TQ",
+    "player": "illuComet",
+    "playerURL": "https://www.youtube.com/@illucomet3108",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Feilian Beringal",
+    "time": 38,
+    "url": "https://www.youtube.com/watch?v=5bVfI4TFmuw",
+    "player": "Yumi",
+    "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 43,
+    "url": "https://youtu.be/0uHZ-BJWLek",
+    "player": "Ken Rurouni",
+    "playerURL": "https://www.youtube.com/@KenRurouni",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 39,
+    "url": "https://www.bilibili.com/video/BV1HfBNYpEf3",
+    "player": "槎藤迂廻",
+    "playerURL": "https://space.bilibili.com/277682671",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 38,
+    "url": "https://www.bilibili.com/video/BV1T4kJYLEYe",
+    "player": "哀音只想睡大觉",
+    "playerURL": "https://space.bilibili.com/183490081",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Zhezhi",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Rime-Draped Sprouts",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      5
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 41,
+    "url": "https://www.youtube.com/watch?v=NFz-psZ-ABA",
+    "player": "CeeCee",
+    "playerURL": "https://www.youtube.com/@CeeCeeNoRee",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Zhezhi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=q4Vf-KhChMg",
+    "player": "Tri Tran",
+    "playerURL": "https://www.youtube.com/@tri_tran",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Sanhua",
+      "Yangyang",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      6,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Emerald of Genesis",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 51,
+    "url": "https://youtu.be/-WDB3ibbDnU",
+    "player": "Fairime",
+	  "playerURL": "https://www.youtube.com/@fairime",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Yinlin",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 46,
+    "url": "https://www.youtube.com/watch?v=1aZ-Lz647eU",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 44,
+    "url": "https://www.youtube.com/watch?v=DZ4mCFdx2xc",
+    "player": "Coffin",
+    "playerURL": "https://www.youtube.com/@Coffin-f5e",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 45,
+    "url": "https://www.youtube.com/watch?v=89T1iFbV4IE",
+    "player": "Lyzekias",
+	  "playerURL": "https://www.youtube.com/@Lyzekias",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      5
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 53,
+    "url": "https://www.youtube.com/watch?v=jeOy_PRgONk",
+    "player": "WildCrown",
+	  "playerURL": "https://www.youtube.com/@wildcrown340",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yangyang",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 55,
+    "url": "https://youtu.be/F5GAvdUORWU?si=2cetnUYg5Hbpxkqp&t=426",
+    "player": "Selkey",
+	  "playerURL": "https://www.youtube.com/@SelkeyYT",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 33,
+    "url": "https://www.youtube.com/watch?v=9xlRNpQ9e0U",
+    "player": "KiyoLovesKita",
+    "playerURL": "https://www.youtube.com/@KiyoLovesKita",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 52,
+    "url": "https://www.youtube.com/watch?v=LmLPoDUI-HQ",
+    "player": "Rocha",
+    "playerURL": "https://www.youtube.com/@rocha9062",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Jinhsi",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Ages of Harvest",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      5
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 56,
+    "url": "https://www.youtube.com/watch?v=TJYJtRc9NOg",
+    "player": "Fabian5cu",
+    "playerURL": "https://www.youtube.com/c/Fabian5cuWF",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 44,
+    "url": "https://www.bilibili.com/video/BV1R9qaY2EEU",
+    "player": "fw白-",
+    "playerURL": "https://space.bilibili.com/482281285",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Yinlin",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 46,
+    "url": "https://www.bilibili.com/video/BV1oCq8Y1EMA",
+    "player": "娜维娅的奶油泡芙",
+    "playerURL": "https://space.bilibili.com/1329381316",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 48,
+    "url": "https://www.youtube.com/watch?v=w75bmyrnTS0",
+    "player": "Sumireko",
+    "playerURL": "https://www.youtube.com/@sumireko8534",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Overture",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      5,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 53,
+    "url": "https://www.youtube.com/watch?v=J4x2_LQJ30g",
+    "player": "Smose",
+    "playerURL": "https://www.youtube.com/@Smose03",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Feilian Beringal",
+    "time": 51,
+    "url": "https://youtu.be/FgB_ugr1qjI?si=Ww_dLNoz04K1o7Z5",
+    "player": "Poro",
+    "playerURL": "https://www.youtube.com/@poro7924",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Feilian Beringal",
+    "time": 52,
+    "url": "https://www.youtube.com/watch?v=5OvPgoK35Z8",
+    "player": "Seres",
+    "playerURL": "https://www.youtube.com/@seres042",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Feilian Beringal",
+    "time": 52,
+    "url": "https://youtu.be/mGLn4d8S6NA",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Jinhsi",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Lustrous Razor",
+      "Ages of Harvest",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 54,
+    "url": "https://www.youtube.com/watch?v=WbgiIp5sT3o",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Feilian Beringal",
+    "time": 56,
+    "url": "https://www.youtube.com/watch?v=kbAqbZl1_-E",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 41,
+    "url": "https://www.youtube.com/watch?v=fTlkUv0rAQs",
+    "player": "AutumnのCh.",
+    "playerURL": "https://www.youtube.com/@20.Autumn/videos",
+    "notes": "No equipment shown but verified S0R1 from previous runs"
+  },
+	
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 41,
+    "url": "https://www.bilibili.com/video/BV1CKzTY8ECn/",
+    "player": "Eriri_M",
+    "playerURL": "https://www.bilibili.com/video/BV165UvYcESN",
+    "notes": "No equipment shown but verified S0R1 from previous runs"
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 26,
+    "url": "https://www.bilibili.com/video/BV14xUVYVE3m",
+    "player": "Eriri_M",
+    "playerURL": "https://www.bilibili.com/video/BV165UvYcESN",
+    "notes": "No equipment shown but verified S0R1 from previous runs"
+  },
+	
+	{
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 28,
+    "url": "https://www.bilibili.com/video/BV1EkzHYwEF2/",
+    "player": "kagamiさん",
+    "playerURL": "https://space.bilibili.com/25851331",
+    "notes": ""
+  },
+
+	
+  
+  {
+    "patch": "1.4",
+    "cycleID": "15",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "SRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Inferno Rider",
+    "time": 52,
+    "url": "https://www.youtube.com/watch?v=d_GqXR41ASk",
+    "player": "Eugen (Dr. Misc)",
+    "playerURL": "https://www.youtube.com/@dr_misc",
+    "notes": ""
+  },
+
+	{
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 35,
+    "url": "https://www.youtube.com/watch?v=YIvloBG2orw",
+    "player": "Tri Tran",
+    "playerURL": "https://www.youtube.com/@tri_tran",
+    "notes": "Mobile Speedrun"
+  },
+
+	{
+    "patch": "1.3",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Zhezhi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 33,
+    "url": "https://youtu.be/G4wId6Y_ab8?si=bUZKuvpiABIQHZS4",
+    "player": "Tri Tran",
+    "playerURL": "https://www.youtube.com/@tri_tran",
+    "notes": ""
+  },
+
+	{
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Xiangli Yao",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      2,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 33,
+    "url": "https://www.bilibili.com/video/BV1pfqHYYEFP",
+    "player": "点点不纷飞",
+    "playerURL": "https://space.bilibili.com/393920077",
+    "notes": "Ages of Harvest R2 was allowed as an exception"
+  },
+	
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team": 
+    [
+      "Camellya",
+      "Xiangli Yao",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Verity's Handle",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 30,
+    "url": "https://www.bilibili.com/video/BV1RnqLYNEts/",
+    "player": "ttdzb",
+    "playerURL": "https://space.bilibili.com/277939044",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team": 
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 31,
+    "url": "https://www.bilibili.com/video/BV1BJqJYHEo6",
+    "player": "抠脚菜鸟",
+    "playerURL": "https://space.bilibili.com/437388322",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team": 
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 32,
+    "url": "https://youtu.be/ldybuypV-aM",
+    "player": "Jinwuuu",
+    "playerURL": "https://www.youtube.com/@Jinwuuuxdd",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team": 
+    [
+      "HRover",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      3,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 33,
+    "url": "https://www.bilibili.com/video/BV1xv6FYnEVR",
+    "player": "kagamiさん",
+    "playerURL": "https://space.bilibili.com/25851331",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 34,
+    "url": "https://youtu.be/wS1Up-TyXu0",
+    "player": "Seres",
+    "playerURL": "https://www.youtube.com/@seres042",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 34,
+    "url": "https://www.bilibili.com/video/BV1EyzWYBEb6/",
+    "player": "一直走神",
+    "playerURL": "https://space.bilibili.com/101579224",
+    "notes": ""
+  },  
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 34,
+    "url": "https://www.youtube.com/watch?v=zb5vqVs1kPM",
+    "player": "Yumi",
+    "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },   
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Camellya",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Red Spring",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 35,
+    "url": "https://www.bilibili.com/video/BV122zpY7ETX/",
+    "player": "一直走神",
+    "playerURL": "https://space.bilibili.com/101579224",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=H7KlNQRf28Y",
+    "player": "Fabian5cu",
+    "playerURL": "https://www.youtube.com/c/Fabian5cuWF",
+    "notes": ""
+  },  
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=3-dWSnjjXDs",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 37,
+    "url": "https://www.youtube.com/watch?v=zb5vqVs1kPM",
+    "player": "Yumi",
+    "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 37,
+    "url": "https://youtu.be/Fg3zZtJkwVM",
+    "player": "aqua-sama",
+    "playerURL": "https://www.youtube.com/@aquasamakwids",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Lustrous Razor",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 38,
+    "url": "https://youtu.be/YSESNI-Ssgk?si=jr0df24pzTOUkgOm",
+    "player": "AutumnのCh.",
+    "playerURL": "https://www.youtube.com/@20.Autumn",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Lingyang",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      2,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 39,
+    "url": "https://www.bilibili.com/video/BV1iQiqY8EPT",
+    "player": "灵殊Nova",
+    "playerURL": "https://space.bilibili.com/414676052",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Encore",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 39,
+    "url": "https://www.bilibili.com/video/BV1GgzYYXEyA/",
+    "player": "ttdzb",
+    "playerURL": "https://space.bilibili.com/277939044",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 39,
+    "url": "https://www.youtube.com/watch?v=kw1IXxXPTBc",
+    "player": "Morse",
+    "playerURL": "https://www.youtube.com/@MorseNull",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Changli",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      3,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 40,
+    "url": "https://www.youtube.com/watch?v=LqUtRcRRuKQ",
+    "player": "Poro",
+    "playerURL": "https://www.youtube.com/@poro7924",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 42,
+    "url": "https://www.youtube.com/watch?v=M6lgK7o41rU",
+    "player": "Eugen (Dr. Misc)",
+    "playerURL": "https://www.youtube.com/@dr_misc",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 42,
+    "url": "https://www.youtube.com/watch?v=08pyOm58Nr0",
+    "player": "Sensible Player",
+    "playerURL": "https://www.youtube.com/@sensibleplayer",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 43,
+    "url": "https://youtu.be/VgZJ_pIKqB4?si=pPkex38VXPSS4eWl",
+    "player": "sidew",
+    "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 43,
+    "url": "https://www.youtube.com/watch?v=qWsY4f2aRck",
+    "player": "Smose",
+    "playerURL": "https://www.youtube.com/@Smose03",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 44,
+    "url": "https://www.youtube.com/watch?v=mqoQyFygECU",
+    "player": "Coffin",
+    "playerURL": "https://www.youtube.com/@Coffin-f5e",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Lustrous Razor",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 52,
+    "url": "https://www.youtube.com/watch?v=qHvJvP5HR3g",
+    "player": "AutumnのCh.",
+    "playerURL": "https://www.youtube.com/@20.Autumn",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Changli",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      3,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 46,
+    "url": "https://youtu.be/oJ1Onqa7lAs?si=4e4l6AkaHdD1iXZT&t=159",
+    "player": "AutumnのCh.",
+    "playerURL": "https://www.youtube.com/@20.Autumn",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Lustrous Razor",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 46,
+    "url": "https://www.youtube.com/watch?v=CA4cH-WMUi0",
+    "player": "Poro",
+    "playerURL": "https://www.youtube.com/@poro7924",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Camellya",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Blazing Brilliance",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 49,
+    "url": "https://www.youtube.com/watch?v=EDEqic9n_bw",
+    "player": "Yumi",
+    "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 51,
+    "url": "https://www.youtube.com/watch?v=poKd_LhPTTI",
+    "player": "CallMeMoon",
+    "playerURL": "https://www.youtube.com/@FearTheMoonTide",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Changli",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Mourning Aix",
+    "time": 53,
+    "url": "https://youtu.be/oJ1Onqa7lAs?si=DrHo9To1hA4XkCVY&t=235",
+    "player": "AutumnのCh.",
+    "playerURL": "https://www.youtube.com/@20.Autumn",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Mourning Aix",
+    "time": 53,
+    "url": "https://youtu.be/8jVRKS3PuCI",
+    "player": "Smose",
+    "playerURL": "https://www.youtube.com/@Smose03",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Lingyang",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 54,
+    "url": "https://www.youtube.com/watch?v=7T5zjZA_p5I",
+    "player": "ChemX32",
+    "playerURL": "https://www.youtube.com/@ChemX32",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Aalto",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      3,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Static Mist",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Fallacy of No Return",
+    "time": 55,
+    "url": "https://www.youtube.com/watch?v=uy9djvfOxSc",
+    "player": "Yumi",
+    "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.4",
+    "cycleID": "14",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Mourning Aix",
+    "time": 52,
+    "url": "https://www.youtube.com/watch?v=bNvQx8Cv91k",
+    "player": "adumblamb",
+	  "playerURL": "https://www.youtube.com/@adumblamb",
+    "notes": "Shorekeeper's seq not shown but verified individually"
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 29,
+    "url": "https://www.bilibili.com/video/BV165UvYcESN",
+    "player": "小羊早睡不遭罪",
+    "playerURL": "https://space.bilibili.com/37331716",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team": 
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 30,
+    "url": "https://www.bilibili.com/video/BV1QuUFY2EN3",
+    "player": "抠脚菜鸟",
+    "playerURL": "https://space.bilibili.com/437388322",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team": 
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      1,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 32,
+    "url": "https://www.youtube.com/watch?v=ffBhKFZYgjc",
+    "player": "Jinwuuu",
+	  "playerURL": "https://www.youtube.com/@Jinwuuuxdd",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 34,
+    "url": "https://www.youtube.com/watch?v=OMeh7ireTsY",
+    "player": "C2L",
+	  "playerURL": "https://www.youtube.com/@c2l395",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Xiangli Yao",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Verity's Handle",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=tMqhijytDtU",
+    "player": "Grass",
+    "playerURL": "https://www.youtube.com/@grass-f9g",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=3JsaHBrbjdo",
+    "player": "Yumi",
+	  "playerURL": "https://www.youtube.com/@Yumi-Mei",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 36,
+    "url": "https://www.youtube.com/watch?v=9JZEvlpqHpk",
+    "player": "kgk_ss882kl",
+	  "playerURL": "https://www.youtube.com/@nmjdf_ksd23",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 37,
+    "url": "https://www.youtube.com/watch?v=NiD-jJCrQXE",
+    "player": "Seres",
+	  "playerURL": "https://www.youtube.com/@seres042",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 39,
+    "url": "https://www.youtube.com/watch?v=P9L083VwX3w",
+    "player": "aqua-sama",
+	  "playerURL": "https://www.youtube.com/@aquasamakwids",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 39,
+    "url": "https://www.youtube.com/watch?v=zNd7io_KE1g",
+    "player": "sidew",
+	  "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Emerald of Genesis",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 40,
+    "url": "https://www.youtube.com/watch?v=wXC0_n_n5pY",
+    "player": "Yumi",
+	  "playerURL": "https://www.youtube.com/@yumi-mei",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Jinhsi",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Lustrous Razor",
+      "Ages of Harvest",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 43,
+    "url": "https://youtu.be/jwTylTzIYPE?si=CTPNkEYb9YE1ZEWA",
+    "player": "sidew",
+	  "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 44,
+    "url": "https://www.youtube.com/watch?v=7KIwpyflMp8",
+    "player": "Smose",
+	  "playerURL": "https://www.youtube.com/@Smose03",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Encore",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      1,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 44,
+    "url": "https://www.bilibili.com/video/BV1f7UdYUEez/",
+    "player": "晨秋叶落",
+	  "playerURL": "https://space.bilibili.com/23336872",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 45,
+    "url": "https://www.youtube.com/watch?v=-ej0orGrryY",
+    "player": "Coffin",
+	  "playerURL": "https://www.youtube.com/@Coffin-f5e",
+    "notes": "Mobile Speedrun"
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      3,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 46,
+    "url": "https://www.bilibili.com/video/BV1h1SwY9ECL/",
+    "player": "晨秋叶落",
+	  "playerURL": "https://space.bilibili.com/23336872",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      3
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 47,
+    "url": "https://www.youtube.com/watch?v=bnmtNIqc1jI",
+    "player": "Kyo",
+	  "playerURL": "https://www.youtube.com/@KyoFantasia",
+    "notes": "Mobile Speedrun"
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Camellya",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Red Spring",
+      "Overture",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 48,
+    "url": "https://www.youtube.com/watch?v=KIKLMT7StdY",
+    "player": "Kbelns Operl",
+	  "playerURL": "https://www.youtube.com/@KbelnsOperl",
+    "notes": "Mobile Speedrun"
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Camellya",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 54,
+    "url": "https://www.bilibili.com/video/BV1jnmfYnEWg/",
+    "player": "晨秋叶落",
+	  "playerURL": "https://space.bilibili.com/23336872",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Yinlin",
+      "Verina"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      1
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 55,
+    "url": "https://youtu.be/SXzq6pZA5so",
+    "player": "sidew",
+	  "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 55,
+    "url": "https://www.youtube.com/watch?v=DEtaE3IcjQg",
+    "player": "DelosLogic",
+	  "playerURL": "https://www.youtube.com/@DelosLogicc",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.4",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Yinlin",
+      "Taoqi"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      6
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Discord"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      5
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 54,
+    "url": "https://www.youtube.com/watch?v=QWNugxjidpo",
+    "player": "TheFirstKFCguy",
+	  "playerURL": "https://www.youtube.com/@TheFirstKFCguy",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "13",
+    "top": 0,
+    "team":  
+    [
+      "SRover",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      6,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Feilian Beringal",
+    "time": 57,
+    "url": "https://www.youtube.com/watch?v=K99gdkqfwNs",
+    "player": "Eugen (Dr. Misc)",
+	  "playerURL": "https://www.youtube.com/@dr_misc",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 28,
+    "url": "https://www.bilibili.com/video/BV1fkDAYzEwG",
+    "player": "Eriri_M",
+	  "playerURL": "https://space.bilibili.com/122051274",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Zhezhi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 38,
+    "url": "https://www.youtube.com/watch?v=EBhVw--7tX8",
+    "player": "Tri Tran",
+	  "playerURL": "https://www.youtube.com/@tri_tran",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Yinlin",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Variation"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      2
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 43,
+    "url": "https://www.youtube.com/watch?v=HZvVSOvc0BI",
+    "player": "Tri Tran",
+	  "playerURL": "https://www.youtube.com/@tri_tran",
+    "notes": "Mobile Speedrun"
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 29,
+    "url": "https://www.bilibili.com/video/BV14nmzYUE8S",
+    "player": "一直走神",
+	  "playerURL": "https://space.bilibili.com/101579224",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Zhezhi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Augment",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      5,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 29,
+    "url": "https://www.bilibili.com/video/BV1BuSZYdEMM",
+    "player": "零嘤酱QAQ",
+	  "playerURL": "https://space.bilibili.com/180610935",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 31,
+    "url": "https://www.bilibili.com/video/BV181DKYPELn",
+    "player": "浅方见",
+	  "playerURL": "https://space.bilibili.com/15256587",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Changli",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 32,
+    "url": "https://www.bilibili.com/video/BV1WqD8YoEeJ",
+    "player": "浅方见",
+	  "playerURL": "https://space.bilibili.com/15256587",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Encore",
+      "Sanhua",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Stringmaster",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 34,
+    "url": "https://youtu.be/-g_FhA7rI20?si=LHoHFkRqfI6N-75I",
+    "player": "Jinwuuu",
+	  "playerURL": "https://www.youtube.com/@Jinwuuuxdd",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 35,
+    "url": "https://www.youtube.com/watch?v=ld8_ECJ4mA4",
+    "player": "sidew",
+	  "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 35,
+    "url": "https://youtu.be/vTV_vzdd3Ho",
+    "player": "Seres",
+	  "playerURL": "https://www.youtube.com/@seres6181",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Encore",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      1,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Stringmaster",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 39,
+    "url": "https://youtu.be/IDjVX4ZpBdk",
+    "player": "Grass",
+	  "playerURL": "https://www.youtube.com/@grass-f9g",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Lingyang",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      2,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 44,
+    "url": "https://www.bilibili.com/video/BV1uUSoY3EVA",
+    "player": "灵殊Nova",
+	  "playerURL": "https://space.bilibili.com/414676052",
+    "notes": ""
+  },
+
+  {
+    "patch": "1.3",
+    "cycleID": "12",
+    "top": 0,
+    "team":  
+    [
+      "Jinhsi",
+      "Changli",
+      "Xiangli Yao"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Verity's Handle"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Impermanence Heron",
+    "time": 49,
+    "url": "https://www.bilibili.com/video/BV1uSSfYEEQv/",
+    "player": "面黄肌瘦的男人",
+	  "playerURL": "https://space.bilibili.com/1847632513",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "11",
+    "top": 0,
+    "team":  
+    [
+      "Changli",
+      "HRover",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      3,
+      0
+    ],
+    "weapons": 
+    [
+      "Blazing Brilliance",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-1",
+    "floorBoss": "Thundering Mephis",
+    "time": 40,
+    "url": "https://www.youtube.com/watch?v=ZJTQzDLh2dA",
+    "player": "Poro",
+	  "playerURL": "https://www.youtube.com/@poro7924",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "11",
+    "top": 0,
+    "team":  
+    [
+      "Jiyan",
+      "Mortefi",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      6,
+      0
+    ],
+    "weapons": 
+    [
+      "Verdant Summit",
+      "Static Mist",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Impermanence Heron",
+    "time": 34,
+    "url": "https://www.bilibili.com/video/BV1LVyPYdEiF/",
+    "player": "laitneipaS",
+	  "playerURL": "https://space.bilibili.com/1644081720",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "11",
+    "top": 0,
+    "team":  
+    [
+      "Xiangli Yao",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Verity's Handle",
+      "Emerald of Genesis",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      2,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Impermanence Heron",
+    "time": 41,
+    "url": "https://www.youtube.com/watch?v=aA4R8oWrwP4",
+    "player": "Seres",
+	  "playerURL": "https://www.youtube.com/@seres6181",
+    "notes": ""
+  },
+  
+  {
+    "patch": "1.3",
+    "cycleID": "11",
+    "top": 0,
+    "team":  
+    [
+      "Calcharo",
+      "Changli",
+      "Shorekeeper"
+    ],
+    "sequence": 
+    [
+      0,
+      0,
+      0
+    ],
+    "weapons": 
+    [
+      "Ages of Harvest",
+      "Blazing Brilliance",
+      "Stellar Symphony"
+    ],
+    "rank": 
+    [
+      1,
+      1,
+      1
+    ],
+    "floor": "2-2",
+    "floorBoss": "Impermanence Heron",
+    "time": 43,
+    "url": "https://youtu.be/FEDtYgNvSrw?si=DdbDjBNigix68AgS",
+    "player": "sidew",
+	  "playerURL": "https://www.youtube.com/@sidew37",
+    "notes": ""
+  }
+
+]
